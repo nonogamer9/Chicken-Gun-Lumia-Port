@@ -30,18 +30,18 @@ You can also check the port on my itch.io here: https://nonogamer9-youtube.itch.
 
 * VERSION LOGS:
 
-2025/03/03: Version 1.0: Public Release
+- 2025/03/03: Version 1.0: Public Release
 
-2026/01/13: Version 1.1: Managed to turn it into an APPX, Fixed Store, Instant 10000 Coins
+- 2026/01/13: Version 1.1: Managed to turn it into an APPX, Fixed Store, Instant 10000 Coins
 
-2026/07/01: Version 1.2: Added Offline Mode, Fixed The Weird Touch Control Bug, now targets lumias that run 10240 or newer (W10 initial release) instead of 15063 or newer (creators update)
+- 2026/07/01: Version 1.2: Added Offline Mode, Fixed The Weird Touch Control Bug, now targets lumias that run 10240 or newer (W10 initial release) instead of 15063 or newer (creators update)
 
-2026/07/02: Version 1.3: Fixed Chat by implementing a custom Input Field that the Lumia's TouchScreenKeyboard lacked, Added Jetpack
+- 2026/07/02: Version 1.3: Fixed Chat by implementing a custom Input Field that the Lumia's TouchScreenKeyboard lacked, Added Jetpack
 
-2026/07/16: Version 1.4: Performance Optimization using Unity's QualitySettings and a custom hardware checker.
+- 2026/07/16: Version 1.4: Performance Optimization using Unity's QualitySettings and a custom hardware checker.
 
-2026/08/19: Version 1.5: More Performance Optimizations and Fixes for random kicks
+- 2026/08/19: Version 1.5: More Performance Optimizations and Fixes for random kicks
 
-2026/08/20: Version 1.6: Added the photon button so you can switch between Vanilla and CGPS Servers
+-2026/08/20: Version 1.6: Added the photon button so you can switch between Vanilla and CGPS Servers
 
-2026/10/30: Version 1.7:  Fixed animations on mobs (which means all bugs has been fixed)
+- 2026/10/30: Version 1.7:  Fixed animations on mobs (which means all bugs has been fixed)
